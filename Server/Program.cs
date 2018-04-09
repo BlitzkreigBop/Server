@@ -8,7 +8,6 @@ using System.Threading;
 using System.Timers;
 using Timer = System.Timers.Timer;
 
-
 public class StateObject
 {
   public Socket clientSocket = null;
